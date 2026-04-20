@@ -27,6 +27,9 @@ You can:
 
 The project is intentionally modular, so adding new node types is straightforward.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52a11da6-8e7d-40ef-8271-f18bc9e65279" />
+
+
 ## Demo Flow Included
 
 The app preloads a sample template called **Leave Approval Workflow**:
