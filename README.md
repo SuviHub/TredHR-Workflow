@@ -192,7 +192,4 @@ Because execution and rendering use the registry, support flows end-to-end once 
 - Add unit tests for validation and execution services
 - Export/import workflow JSON
 
-## License
 
-This project currently has no explicit license file.
-If this will be shared publicly, add a `LICENSE` (MIT, Apache-2.0, etc.) based on your intended usage.
